@@ -1,4 +1,4 @@
-# Rename-Nick
+# Rename-Nickname
 
 基于oicq实现的批量修改QQ群昵称的工具
 
